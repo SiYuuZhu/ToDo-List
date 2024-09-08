@@ -1,0 +1,23 @@
+.form-control{
+    padding: 1.375rem .75rem !important;
+}
+
+.Personal{
+    background-color: #dbeedb;
+    color: black;
+}
+
+.Work{
+    background-color: #fce4de;
+    color: black;
+}
+
+
+.tasks{
+    height: 450px; 
+    overflow: scroll;
+}
+
+.newtask{
+    background-color: #fbffff;
+}
